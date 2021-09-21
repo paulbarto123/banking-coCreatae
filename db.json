@@ -1,0 +1,150 @@
+{
+  "myProjectData": [
+    {
+      "id": "asdf2345",
+      "category": "Sosial & Kebudayaan",
+      "name": " Bangun Sekolah Gratis",
+      "startDate": "17 Juli 2021",
+      "linktrello": "trello.com",
+      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua",
+      "collaborator": [
+        {
+          "key": "1",
+          "number": "1",
+          "name": "Patrick"
+        },
+        {
+          "key": "2",
+          "number": "2",
+          "name": "Spongebob"
+        },
+        {
+          "key": "3",
+          "number": "3",
+          "name": "Sandy"
+        },
+        {
+          "key": "4",
+          "number": "4",
+          "name": "Tuan Krabs"
+        }
+      ]
+    },
+    {
+      "category": "Go Green",
+      "name": "sdasd",
+      "startDate": "25 September 2021",
+      "description": "grergerge",
+      "linktrello": "asdasdasd",
+      "collaborator": [
+        {
+          "key": "1",
+          "number": "1",
+          "name": "Patrick"
+        },
+        {
+          "key": "2",
+          "number": "2",
+          "name": "Spongebob"
+        }
+      ],
+      "id": "Bp2MmjQ"
+    },
+    {
+      "category": "Pengembangan Teknologi",
+      "name": "Pengembangan Teknologi",
+      "startDate": "18 November 2021",
+      "description": "jajanajjsnajsn",
+      "linktrello": "facebook.com",
+      "collaborator": [
+        {
+          "key": "2",
+          "number": "2",
+          "name": "Spongebob"
+        },
+        {
+          "key": "3",
+          "number": "3",
+          "name": "Sandy"
+        }
+      ],
+      "id": "n8qCclD"
+    },
+    {
+      "category": "Sosial & Kemanusiaan",
+      "name": "go project",
+      "startDate": "09 September 2021",
+      "description": "update to got project",
+      "linktrello": "trello.om",
+      "collaborator": [
+        {
+          "key": "4",
+          "number": "4",
+          "name": "Tuan Krabs"
+        },
+        {
+          "key": "3",
+          "number": "3",
+          "name": "Sandy"
+        }
+      ],
+      "id": "_GWEyHW"
+    }
+  ],
+  "myArticleData": [
+    {
+      "category": "Sosial & Kebudayaan",
+      "title": "Berbagi Sosial",
+      "detail": "Selalu berbakti sosial",
+      "date": "20 September 2021",
+      "id": 1
+    }
+  ],
+  "EnrollmentData": [
+    {
+      "id": 1,
+      "tanggalRegistrasi": "8 Juli 2021",
+      "nama": "Partick",
+      "status": "Menunggu Approval",
+      "topik": "Perkembangan teknologi"
+    },
+    {
+      "id": 2,
+      "tanggalRegistrasi": "5 Juli 2021",
+      "nama": "Sponebob",
+      "status": "Menunggu Approval",
+      "topik": "Go Green"
+    },
+    {
+      "id": 3,
+      "tanggalRegistrasi": "18 Juni 2021",
+      "nama": "Sandy",
+      "status": "Approved",
+      "topik": "Sosial & Kemanusiaan"
+    },
+    {
+      "id": 4,
+      "tanggalRegistrasi": "23 mei 2021",
+      "nama": "Tuan Crabs",
+      "status": "Menunggu Approval",
+      "topik": "Go Green"
+    }
+  ],
+  "collabInvitation": [
+    {
+      "id": "asasasa",
+      "category": "Sosial Ekonomi",
+      "name": "Seminar ekonomi",
+      "startDate": "17 September 2021",
+      "linktrello": "trello.com",
+      "description": "mengikuti seminar",
+      "admin": "Plankton",
+      "collaborator": [
+        {
+          "key": "1",
+          "name": "spongebob@gmail.com"
+        }
+      ]
+    }
+  ]
+}
